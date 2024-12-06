@@ -1,0 +1,20 @@
+Game,Date,Opponent,Points_Scored,Points_Allowed,Turnover_Differential,Passing_Yards,Rushing_Yards,Sacks,Result
+1,09-08-1985,Tampa Bay Buccaneers,38,28,2,212,167,5,W
+2,09-15-1985,New England Patriots,20,7,1,165,151,4,W
+3,09-22-1985,Minnesota Vikings,33,24,0,194,138,6,W
+4,09-29-1985,Washington Redskins,45,10,3,252,168,7,W
+5,10-06-1985,Tampa Bay Buccaneers,27,19,2,204,172,4,W
+6,10-14-1985,San Francisco 49ers,26,10,1,191,132,4,W
+7,10-20-1985,Green Bay Packers,23,7,1,202,145,4,W
+8,10-27-1985,Minnesota Vikings,27,9,2,186,181,5,W
+9,11-03-1985,Green Bay Packers,16,10,-1,121,150,3,W
+10,11-10-1985,Detroit Lions,24,3,2,180,133,6,W
+11,11-17-1985,Dallas Cowboys,44,0,3,265,153,8,W
+12,11-24-1985,Atlanta Falcons,36,0,4,245,142,9,W
+13,12-02-1985,Miami Dolphins,24,38,-1,257,138,2,L
+14,12-08-1985,Indianapolis Colts,17,10,2,193,147,6,W
+15,12-14-1985,New York Jets,19,6,1,184,155,4,W
+16,12-22-1985,Detroit Lions,37,17,2,209,170,5,W
+Post1,01-04-1986,New York Giants,21,0,3,236,132,6,W
+Post2,01-12-1986,Los Angeles Rams,24,0,4,222,155,5,W
+Post3,01-26-1986,New England Patriots,46,10,3,259,167,7,W
